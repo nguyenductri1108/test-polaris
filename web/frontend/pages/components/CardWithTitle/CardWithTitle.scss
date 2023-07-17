@@ -1,0 +1,13 @@
+.card-title {
+    color: #f62369;
+    display: flex;
+    column-gap: 12px;
+    .Polaris-Icon {
+        margin: 0;
+        path {
+            fill: #f62369;
+        }
+    }
+    align-items: center;
+    margin-bottom: 12px;
+}

@@ -1,0 +1,17 @@
+.test {
+    h2 {
+        color: var(--p-interactive-critical-hovered);
+    }
+}
+
+.middle-card {
+    .Polaris-FormLayout__Item {
+        margin-top: 8px;
+    }
+}
+
+.last-card {
+    .Polaris-LegacyTabs__TabContainer {
+        flex: 1;
+    }
+}
